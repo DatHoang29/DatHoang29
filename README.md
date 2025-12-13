@@ -1,11 +1,5 @@
 # Hi 👋 I'm Dat
 
-🚀 **Full-Stack Developer | 3+ Years Experience**
-
-I'm a passionate full-stack developer who enjoys building **scalable, maintainable, and real-world applications**. I care deeply about **clean code**, **performance**, and **great user experiences**, and I continuously push myself to grow both technically and professionally.
-
----
-
 ## 🧠 About Me
 
 * 💻 Full-Stack Developer with **3+ years of hands-on experience**
