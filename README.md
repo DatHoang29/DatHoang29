@@ -64,23 +64,4 @@
   <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/DatHoang29">
-    <img src="https://github-readme-stats.vercel.app/api?username=DatHoang29&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Dat Hoang's GitHub Stats" />
-  </a>
-  <a href="https://github.com/DatHoang29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DatHoang29&theme=radical&hide_border=true" alt="Dat Hoang's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DatHoang29">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatHoang29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
 <!-- Proudly designed visually -->
