@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/DatHoang29">
-    <img src="https://github-readme-stats.vercel.app/api?username=DatHoang29&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Dat Hoang's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DatHoang29&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Dat Hoang's GitHub Stats" />
   </a>
   <a href="https://github.com/DatHoang29">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DatHoang29&theme=radical&hide_border=true" alt="Dat Hoang's GitHub Streak" />
