@@ -64,4 +64,12 @@
   <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest" />
 </p>
 
+---
+
+## 📈 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatHoang29&repo=DatHoang29&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" alt="Dat Hoang's GitHub Activity Graph" />
+</p>
+
 <!-- Proudly designed visually -->
