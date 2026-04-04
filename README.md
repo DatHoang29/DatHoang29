@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dathoang9797&icon=0&color=0" alt="Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DatHoang29&label=Profile%20views&color=0e75b6&style=flat" alt="Dat Hoang profile views" />
 </p>
 
 ---
@@ -71,12 +69,18 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DatHoang29&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatHoang29&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/DatHoang29">
+    <img src="https://github-readme-stats.vercel.app/api?username=DatHoang29&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Dat Hoang's GitHub Stats" />
+  </a>
+  <a href="https://github.com/DatHoang29">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DatHoang29&theme=radical&hide_border=true" alt="Dat Hoang's GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatHoang29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/DatHoang29">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatHoang29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 <!-- Proudly designed visually -->
