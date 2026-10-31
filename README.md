@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 💻 **Experience:** Full-Stack Developer with **3+ years of hands-on experience**.
+- 💻 **Experience:** Full-Stack Developer with **4+ years of hands-on experience**.
 - 🏗️ **Architecture:** Skilled in designing **scalable & maintainable systems** for production environments.
 - 🧪 **Quality:** Detail-oriented, focused on **clean, testable, and production-ready code**.
 - 🎯 **Mission:** Passionate about using technology to **solve real problems efficiently**.
